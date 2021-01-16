@@ -17,4 +17,4 @@ In this first screen, the user will inform the path of the file he wants to conv
 
 On this second screen, it will show if the file conversion was successful.
 
-<img width="500" alt="segunda_tela" src="https://user-images.githubusercontent.com/51414398/104823057-13da3080-5826-11eb-8836-9e16b99da1db.PNG">
+<img width="500" alt="segunda_tela" src="https://user-images.githubusercontent.com/51414398/104823096-497f1980-5826-11eb-9b91-590447acce72.PNG">
