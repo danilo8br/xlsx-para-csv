@@ -25,4 +25,5 @@ In this second screen, it will show if the file conversion was successful.
 
 In this third screen, it will show if the file conversion did not work.
 
-<img width="500 alt="terceira_tela" src="https://user-images.githubusercontent.com/51414398/104823152-b7c3dc00-5826-11eb-8efd-a9c9a6fd4cec.PNG">
+<img width="248" alt="terceira_tela" src="https://user-images.githubusercontent.com/51414398/104823152-b7c3dc00-5826-11eb-8efd-a9c9a6fd4cec.PNG">
+
