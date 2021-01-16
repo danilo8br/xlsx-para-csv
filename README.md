@@ -15,6 +15,14 @@ In this first screen, the user will inform the path of the file he wants to conv
 
 # Second screen
 
-On this second screen, it will show if the file conversion was successful.
+In this second screen, it will show if the file conversion was successful.
 
 <img width="500" alt="segunda_tela" src="https://user-images.githubusercontent.com/51414398/104823096-497f1980-5826-11eb-9b91-590447acce72.PNG">
+
+
+# Third screen
+
+
+In this third screen, it will show if the file conversion did not work.
+
+<img width="500 alt="terceira_tela" src="https://user-images.githubusercontent.com/51414398/104823152-b7c3dc00-5826-11eb-8efd-a9c9a6fd4cec.PNG">
