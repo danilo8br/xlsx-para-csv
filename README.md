@@ -5,7 +5,7 @@ The objective of the project was to create a program in which the user informs t
 
 ### Why?
 
-- Just to practice my Python skills more
+Just to practice my Python skills more
 
 # First screen
 
