@@ -26,7 +26,6 @@ terceira_tela = uic.loadUi('terceira_tela.ui')
 primeira_tela.show()
 # BOTÕES
 primeira_tela.pushButton.clicked.connect(alterar)
-#primeira_tela.pushButton.clicked.connect(fim)
 # EXECUTANDO A APLICAÇÃO
 app.exec()
 
